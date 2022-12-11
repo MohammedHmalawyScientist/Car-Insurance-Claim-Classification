@@ -1,0 +1,4 @@
+catboost==1.1.1
+joblib==1.2.0
+scikit_learn==1.2.0
+streamlit==1.15.2
