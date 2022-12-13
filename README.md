@@ -5,9 +5,10 @@ Now, companies can find out the real customer behaviors over the data.
 This is a web app to predict whether a customer will claim the insurance or not.
 
 ### User Inputs
-- /Gender : This feature is a list that consist of 2 categories (Male , Female)
+- Gender : This feature is a list that consist of 2 categories (Male , Female)
 
 - Married : This feature is a list that consist of 2 categories (Yes , No)
+
 - Vehicle Type : This feature is a list that consist of 2 categories (Sedan , Sports Car)
 - Vehicle Year : This feature is a list that consist of 2 categories (After 2015 , Before 2015)
 - Education : This feature is a list that consist of 3 categories (University , High School , None)
