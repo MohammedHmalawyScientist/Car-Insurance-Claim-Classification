@@ -1,10 +1,10 @@
 # Project No. (1) : Car Insurance Claim Classification
 
-### Description:
+### Description
 Now, companies can find out the real customer behaviors over the data.
 This is a web app to predict whether a customer will claim the insurance or not.
 
-### User Inputs:
+### User Inputs
 - Age : This feature is a list that consist of 4 ranges (16-25 , 26-39 , 40-64 , 65+)
 - Gender : This feature is a list that consist of 2 categories (Male , Female)
 - Driving Experience : This feature is a list that consist of 4 ranges (0-9y , 10-19y , 20-29y , 30y+)
@@ -21,3 +21,6 @@ This is a web app to predict whether a customer will claim the insurance or not.
 - Past Accidents
 - Education : This feature is a list that consist of 3 categories (University , High School , None)
 - Postal Code : This feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
+
+### Predict Now
+[Application](https://mohammedhmalawyscientist-car-insurance-claim-classif-app-4kc8pn.streamlit.app/) - Car Insurance Claim Classification
