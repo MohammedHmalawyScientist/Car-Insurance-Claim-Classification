@@ -38,7 +38,7 @@ This is a web app to predict whether a customer will claim the insurance or not.
 - Past Accidents : This feature should be a positive integer starting from 0
 
 ### Watch Presentation
-[Explaining Video](https://youtu.be/BL8zfQqcFUk)
+[Explaining Video](https://youtu.be/BL8zfQqcFUk) - Car Insurance Claim Classification
 
 ### Predict Now
 [Application](https://mohammedhmalawyscientist-car-insurance-claim-classif-app-4kc8pn.streamlit.app/) - Car Insurance Claim Classification
