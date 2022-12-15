@@ -21,7 +21,7 @@ This is a web app to predict whether a customer will claim the insurance or not.
 
 - Driving Experience : This feature is a list that consist of 4 ranges (0-9y , 10-19y , 20-29y , 30y+)
 
-- Postal Code : This feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
+- Postal Code : "This" feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
 
   `10238 is located in (Antakalnio seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva)`
 
