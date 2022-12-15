@@ -21,15 +21,15 @@ This is a web app to predict whether a customer will claim the insurance or not.
 
 - Driving Experience : This feature is a list that consist of 4 ranges (0-9y , 10-19y , 20-29y , 30y+)
 
-- Postal Code : "This" feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
+- Postal Code : This feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
 
-  `10238 is located in (Antakalnio seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva)`
+  `10238` is located in (Antakalnio seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva)
 
-  `32765 is located in (Cristosende, A Teixeira, Terra de Caldelas, Ourense, Galicia, España)`
+  `32765` is located in (Cristosende, A Teixeira, Terra de Caldelas, Ourense, Galicia, España)
 
-  `92101 is located in (San Diego, San Diego County, California, United States)`
+  `92101` is located in (San Diego, San Diego County, California, United States)
 
-  `21217 is located in (Kaštel Novi, Grad Kaštela, Splitsko-dalmatinska županija, Hrvatska)`
+  `21217` is located in (Kaštel Novi, Grad Kaštela, Splitsko-dalmatinska županija, Hrvatska)
 
 - Credit Score : This feature should be a value that has a range between 0 and 1
 
