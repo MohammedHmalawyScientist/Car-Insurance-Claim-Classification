@@ -23,7 +23,7 @@ This is a web app to predict whether a customer will claim the insurance or not.
 
 - Postal Code : This feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
 
-`10238 is a postal code which is located in (Antakalnio seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva)`
+`10238 is located in (Antakalnio seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva)`
 
 `32765 is a postal code which is located in (Cristosende, A Teixeira, Terra de Caldelas, Ourense, Galicia, España)`
 
